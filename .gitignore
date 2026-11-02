@@ -13,4 +13,6 @@ __pycache__/
 # Ignore all executable files anywhere in the project
 *.exe
 
+SQL_Database/company.db
+
 
